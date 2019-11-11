@@ -1,0 +1,4 @@
+﻿  13458_test_supervising.cpp
+C:\Users\woodc\Source\Repos\13458_test_supervising\13458_test_supervising\13458_test_supervising.cpp(27,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\13458_test_supervising\13458_test_supervising\13458_test_supervising.cpp(35,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  13458_test_supervising.vcxproj -> C:\Users\woodc\Source\Repos\13458_test_supervising\Debug\13458_test_supervising.exe
