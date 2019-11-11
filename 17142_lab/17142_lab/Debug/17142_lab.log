@@ -1,0 +1,5 @@
+﻿  17142_lab.cpp
+C:\Users\woodc\Source\Repos\17142_lab\17142_lab\17142_lab.cpp(121,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17142_lab\17142_lab\17142_lab.cpp(196,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17142_lab\17142_lab\17142_lab.cpp(252,5): warning C4390:  ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  17142_lab.vcxproj -> C:\Users\woodc\Source\Repos\17142_lab\Debug\17142_lab.exe
