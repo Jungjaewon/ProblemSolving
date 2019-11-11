@@ -1,0 +1,3 @@
+﻿  3190_snake.cpp
+C:\Users\woodc\Source\Repos\3190_snake\3190_snake\3190_snake.cpp(34,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  3190_snake.vcxproj -> C:\Users\woodc\Source\Repos\3190_snake\Debug\3190_snake.exe
