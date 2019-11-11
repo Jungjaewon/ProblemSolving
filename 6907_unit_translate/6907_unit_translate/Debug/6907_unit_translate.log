@@ -1,0 +1,13 @@
+﻿  6907_unit_translate.cpp
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(33,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(64,27): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(81,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(27,37): warning C4390:  ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(118,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(122,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(125,1): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  'strtok' 선언을 참조하십시오.
+C:\Users\woodc\Source\Repos\6907_unit_translate\6907_unit_translate\6907_unit_translate.cpp(130,1): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  'strtok' 선언을 참조하십시오.
