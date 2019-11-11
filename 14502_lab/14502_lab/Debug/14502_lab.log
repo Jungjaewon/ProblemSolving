@@ -1,0 +1,4 @@
+﻿  14502_lab.cpp
+C:\Users\woodc\Source\Repos\14502_lab\14502_lab\14502_lab.cpp(71,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\14502_lab\14502_lab\14502_lab.cpp(79,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  14502_lab.vcxproj -> C:\Users\woodc\Source\Repos\14502_lab\Debug\14502_lab.exe
