@@ -1,0 +1,7 @@
+﻿  17135_catsle_defence.cpp
+C:\Users\woodc\Source\Repos\17135_catsle_defence\17135_catsle_defence\17135_catsle_defence.cpp(33,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17135_catsle_defence\17135_catsle_defence\17135_catsle_defence.cpp(66,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17135_catsle_defence\17135_catsle_defence\17135_catsle_defence.cpp(68,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17135_catsle_defence\17135_catsle_defence\17135_catsle_defence.cpp(76,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17135_catsle_defence\17135_catsle_defence\17135_catsle_defence.cpp(91,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  17135_catsle_defence.vcxproj -> C:\Users\woodc\Source\Repos\17135_catsle_defence\Debug\17135_catsle_defence.exe
