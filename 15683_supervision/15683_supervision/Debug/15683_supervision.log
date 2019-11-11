@@ -1,0 +1,4 @@
+﻿  15683_supervision.cpp
+C:\Users\woodc\Source\Repos\15683_supervision\15683_supervision\15683_supervision.cpp(215,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\15683_supervision\15683_supervision\15683_supervision.cpp(225,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  15683_supervision.vcxproj -> C:\Users\woodc\Source\Repos\15683_supervision\Debug\15683_supervision.exe
