@@ -1,0 +1,8 @@
+﻿  16637_gwalho_addition.cpp
+C:\Users\woodc\Source\Repos\16637_gwalho_addition\16637_gwalho_addition\16637_gwalho_addition.cpp(31,30): warning C4305:  '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\woodc\Source\Repos\16637_gwalho_addition\16637_gwalho_addition\16637_gwalho_addition.cpp(31,12): warning C4309:  '초기화 중': 상수 값이 잘립니다.
+C:\Users\woodc\Source\Repos\16637_gwalho_addition\16637_gwalho_addition\16637_gwalho_addition.cpp(101,10): warning C4018:  '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\16637_gwalho_addition\16637_gwalho_addition\16637_gwalho_addition.cpp(111,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\16637_gwalho_addition\16637_gwalho_addition\16637_gwalho_addition.cpp(130,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\16637_gwalho_addition\16637_gwalho_addition\16637_gwalho_addition.cpp(163,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  16637_gwalho_addition.vcxproj -> C:\Users\woodc\Source\Repos\16637_gwalho_addition\Debug\16637_gwalho_addition.exe
