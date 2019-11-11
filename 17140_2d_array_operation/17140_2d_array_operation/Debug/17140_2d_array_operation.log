@@ -1,0 +1,5 @@
+﻿  17140_2d_array_operation.cpp
+C:\Users\woodc\Source\Repos\17140_2d_array_operation\17140_2d_array_operation\17140_2d_array_operation.cpp(55,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17140_2d_array_operation\17140_2d_array_operation\17140_2d_array_operation.cpp(88,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17140_2d_array_operation\17140_2d_array_operation\17140_2d_array_operation.cpp(101,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  17140_2d_array_operation.vcxproj -> C:\Users\woodc\Source\Repos\17140_2d_array_operation\Debug\17140_2d_array_operation.exe
