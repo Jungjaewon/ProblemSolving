@@ -1,0 +1,8 @@
+﻿  17471_voting.cpp
+C:\Users\woodc\Source\Repos\17471_voting\17471_voting\17471_voting.cpp(16,9): warning C4244:  '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\woodc\Source\Repos\17471_voting\17471_voting\17471_voting.cpp(23,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17471_voting\17471_voting\17471_voting.cpp(26,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17471_voting\17471_voting\17471_voting.cpp(34,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17471_voting\17471_voting\17471_voting.cpp(46,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17471_voting\17471_voting\17471_voting.cpp(55,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  17471_voting.vcxproj -> C:\Users\woodc\Source\Repos\17471_voting\Debug\17471_voting.exe

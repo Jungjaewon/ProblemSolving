@@ -1,0 +1,7 @@
+﻿  17472_bridge_building_2.cpp
+C:\Users\woodc\Source\Repos\17472_bridge_building_2\17472_bridge_building_2\17472_bridge_building_2.cpp(21,9): warning C4244:  '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\woodc\Source\Repos\17472_bridge_building_2\17472_bridge_building_2\17472_bridge_building_2.cpp(154,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17472_bridge_building_2\17472_bridge_building_2\17472_bridge_building_2.cpp(155,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17472_bridge_building_2\17472_bridge_building_2\17472_bridge_building_2.cpp(202,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\woodc\Source\Repos\17472_bridge_building_2\17472_bridge_building_2\17472_bridge_building_2.cpp(279,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  17472_bridge_building_2.vcxproj -> C:\Users\woodc\Source\Repos\17472_bridge_building_2\Debug\17472_bridge_building_2.exe
